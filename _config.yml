@@ -3,8 +3,9 @@ logo: "/images/wangyixin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Grow passion for engineering from the previous experience, and take action to reach my goal. 
  Currently, I am seeking for a software engineer role, can’t wait to dive into the industry. 
-  <br><br>
+  <br>
   Proficient with Python, C, HTML, SQL, CSS, JavaScript 
+  <br>
   <a href="https://www.linkedin.com/in/yxwang/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
