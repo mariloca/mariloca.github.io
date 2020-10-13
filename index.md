@@ -2,12 +2,12 @@
 
 
 ### Working Experience
----
+
 * OIGETIT(Oh! I Get it!) Fake News Filter -- Marketing Analyst (2017-2019) 
 * Cupertino City Hall-G50 Global Smart City Summit -- Marketing Manager (2017-2018)
 * Law Offices of Jean D. Chen -- Marketing Assistant (2016-2017)
-* Baidu, Inc.  -- Product Manager  2012-2013
-
+* Baidu, Inc.  -- Product Manager  (2012-2013)
+---
 
 <!---[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
