@@ -36,6 +36,6 @@
 
 ---
 
-
+[View my Resume](https://mariloca.github.io/resume/)
 
 
