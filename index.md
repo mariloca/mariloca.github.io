@@ -20,7 +20,11 @@
 <!---[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-
+### Education
+* The University of Texas at Dallas, *M.S.*, Marketing
+* Xi'an International Studies University, *B.S.*, Spanish
+* Universidad de Salamance, Exchange Student
+* Universidad de La Habana, Exchange Student
 
 ### Projects
 
@@ -34,6 +38,4 @@
 
 
 
-
----
 
