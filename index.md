@@ -28,11 +28,12 @@
 
 ### Projects
 
+- [Stock Trade Website](https://github.com/mariloca/cs50x_2020/tree/master/pset8(web)/finance)
 - [MasterMind Game](https://github.com/mariloca/MasterMind)
 - [Image Filter](https://github.com/mariloca/cs50_image-filter)
 - [Recover Image](https://github.com/mariloca/cs50_recover-image)
 - [Ultimate File Organizer](https://github.com/mariloca/excelVBA/tree/master/Ultimate%20Grade%20Management%20System)
-- [Stock Trade Website](https://github.com/mariloca/cs50x_2020/tree/master/pset8(web)/finance)
+
 
 ---
 
